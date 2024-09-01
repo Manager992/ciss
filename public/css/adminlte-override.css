@@ -1,0 +1,13 @@
+.sidebar {
+    background-color: #000; /* Negro */
+    color: #fff; /* Blanco */
+}
+
+.sidebar-menu > li > a {
+    color: #fff; /* Blanco */
+}
+
+.sidebar-menu > li > a:hover {
+    background-color: #333; /* Gris oscuro */
+    color: #fff; /* Blanco */
+}
